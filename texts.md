@@ -1,100 +1,100 @@
-Title: 
+Judul:
 
-Learning How to Learn 
+Mempelajari cara belajar
 
-Subtitle: 
+Takarir:
 
-The most effective, cutting-edge learning techniques that you can apply to your daily life
+Cara belajar yang canggih dan paling efektif yang dapat diterapkan dalam kehidupan sehari-hari
 
-Learn more
-
----
-
-Description block: 
-
-The main problem with education
-
-Whether it's at school or university, the one thing no one ever teaches you is how to teach yourself. We often just end up drilling specific exercises and mindlessly memorizing information so that when exam time comes around, we pass the test. But once the test is over, that information has outlived its usefulness, and there's no guarantee that information will be retained. In the end, we're really just learning how to pass our tests. 
-
-Here's the real question: does this approach of repetition and memorization help us truly understand the subject material? The academic consensus nowadays is that it doesn't. In fact, what's more important than any individual topic is knowing how to study, but for some reason, this point is often overlooked. So, what can we do to remedy this?
-
-Well, there are various techniques and exercises that can be applied to the educational process to help make it more efficient and engaging. Keep scrolling to uncover some of the secrets of effective learning.
+Pelajari selengkapnya
 
 ---
 
-Digits block: 
+Blok deskripsi:
 
-Facts and figures 
+Masalah utama pendidikan
 
-On learning and the brain
+Baik di sekolah maupun universitas, satu hal yang tidak pernah diajarkan kepada Anda adalah cara mengajar diri sendiri. Umumnya, kita hanya menghafal materi tertentu dan melatih diri untuk mengikuti tes sehingga dapat lulus pada tes tersebut pada waktunya. Namun, setelah ujian dan tes selesai, informasi yang Anda hafalkan tersebut seakan tidak lagi berguna, dan karenanya, tidak ada jaminan bahwa Anda akan tetap ingat hal-hal yang telah dipelajari di sekolah. Pada akhirnya, kita hanya belajar bagaimana cara untuk lulus ujian.
 
-86 billion 
-The number of neurons in the human brain
+**Ini adalah pertanyaan sesungguhnya:** apakah dengan menghafal dan mengulang materi pelajaran, kita benar-benar dapat memahami inti materi yang kita pelajari? Menurut konsensus akademis terkini, jawabannya adalah tidak. Sebenarnya, alih-alih mempelajari suatu mata pelajaran, hal yang paling penting untuk dikuasai adalah cara belajar, namun sayangnya hal ini sering terabaikan. Jadi, apa yang bisa kita lakukan untuk memperbaiki hal ini?
 
-73% 
-The percentage of adults in the US who consider themselves lifelong learners 
+Ada beberapa teknik dan latihan yang dapat Anda terapkan dalam proses pembelajaran agar prosesnya menjadi lebih efisien dan menarik. Terus gulir halaman ini untuk menemukan berbagai rahasia untuk belajar efektif.
+
+---
+
+Blok angka:
+
+**Fakta dan angka**
+
+Tentang belajar dan otak
+
+**86 miliar**
+Jumlah neuron di otak manusia
+
+**73%**
+Persentase orang dewasa di AS yang menganggap diri mereka sebagai pembelajar seumur hidup
 Pew Research Center
 
-1,000 terabytes 
-The information storage capacity of a human
+**1.000 terabita**
+Kapasitas penyimpanan informasi manusia
 
-500 trillion 
-The number of nerve synapses responsible for learning in the average adult human
+**500 triliun**
+Jumlah sinapsis saraf yang bertanggung jawab untuk belajar pada manusia dewasa rata-rata
 
-420 million 
-The number of adults under 25 with insufficient education for finding employment 
-World Bank, 2017
+**420 juta **
+Jumlah orang dewasa di bawah 25 tahun dengan pendidikan yang kurang memadai untuk mencari pekerjaan
+Bank Dunia, 2017
 
-26 years old 
-The age at which Albert Einstein published his groundbreaking paper on special relativity
+**26 tahun**
+Usia Albert Einstein saat ia menerbitkan makalah inovatifnya mengenai relativitas khusus
 
-1885 
-Development of the forgetting curve
+**1885**
+Pengembangan teori forgetting curve
 
-1897 
-Publication of Ivan Pavlov's research on classical conditioning
-
----
-
-Feynman block:
-
-The Feynman Technique 
-
-Learn without forgetting
-
-More →
+**1897**
+Publikasi penelitian Ivan Pavlov tentang pengkondisian klasik
 
 ---
 
-Kaufman block: 
+Blok Feynman:
 
-Ten principles of rapid skill acquisition 
+Teknik Feynman
 
-by Josh Kaufman
+Belajar tanpa lupa
 
-1. Choose a lovable project
-2. Focus your energy on one skill at a time
-3. Define your target performance level
-4. Deconstruct the skill into sub-skills
-5. Obtain critical tools
-6. Eliminate barriers to practice
-7. Make dedicated time for practice
-8. Create fast feedback loops
-9. Practice by the clock in short bursts
-10. Emphasize quantity and speed
+Selengkapnya →
 
 ---
 
-Footer block: 
+Blok Kaufman:
 
-About Practicum by Yandex 
+**Sepuluh prinsip mendapatkan keterampilan dengan cepat**
 
-Home page 
+oleh Josh Kaufman
 
-Mission 
+1. Pilih suatu proyek yang menyenangkan
+2. Konsentrasikan energi Anda pada satu keterampilan di satu waktu
+3. Definisikan target tingkat kemampuan yang ingin Anda raih
+4. Pecah kemampuan yang ingin Anda kuasai menjadi beberapa bagian
+5. Dapatkan alat pendukung yang penting
+6. Hilangkan penghalang untuk berlatih
+7. Luangkan waktu untuk latihan
+8. Ciptakan siklus umpan balik yang cepat
+9. Berlatihlah dengan keras dalam rentang waktu yang singkat
+10. Tekankan fokus pada kecepatan dan kuantitas
 
-Professions
+---
 
-Social media
+Blok footer:
 
-(c) 2021 Your name
+**Tentang Practicum**
+
+Beranda
+
+Misi
+
+Profesi
+
+**Media sosial**
+
+(c) 2020 Nama Anda
