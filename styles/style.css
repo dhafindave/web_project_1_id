@@ -23,7 +23,7 @@ body {
 margin: 0;
 }
 
-.logo_place_header {
+.header__logo_place_header {
 position: absolute;
 top: 30px;
 margin-left: 64px;
@@ -55,6 +55,7 @@ font-weight: normal;
 
 .header__link {
 text-decoration: none;
+color: #2f80ed;
 }
 
 .header__main-illustration {
@@ -122,14 +123,13 @@ font-size: 24px;
 font-weight: normal;
 }
 
-
 /* DIGITS SECTION */
 
 .digits {
 margin-bottom: 100px;
 }
 
-.section-title {
+.digits-title {
 line-height: 69px;
 font-size: 60px;
 font-weight: bold;
@@ -137,14 +137,14 @@ text-align: center;
 margin-bottom: 20px;
 }
 
-.section-subtitle {
+.digits-subtitle {
 line-height: 34px;
 font-size: 24px;
 font-weight: normal;
 text-align: center;
 }
 
-.table {
+.digits-table {
 display: flex;
 flex-wrap: wrap;
 width: 1100px;
@@ -153,21 +153,21 @@ margin-right: auto;
 justify-content: space-between;
 }
 
-.table__cell-1 {
+.digits-table__cell-1 {
 width: 250px;
 margin-top: 60px;
 }
 
-.table__cell {
+.digits-table__cell {
 width: 250px;
 margin-top: 60px;
 }
 
-.table__heading {
+.digits-table__heading {
 margin-bottom: 20px;
 }
 
-.table__text {
+.digits-table__text {
 margin-bottom: 20px;
 }
 
@@ -198,10 +198,13 @@ font-weight: normal;
 
 .feynman__link {
 position: absolute;
+color: #2f80ed;
 right: 48px;
 line-height: 51px;
 font-size: 36px;
 font-weight: normal;
+text-decoration: none;
+top: 50%;
 }
 
 .feynman__image {
@@ -255,7 +258,7 @@ width: 660px;
 height: 636px;
 }
 
-.table__theme_dark {
+.kaufman-table__theme_dark {
 display: flex;
 flex-wrap: wrap;
 list-style-type: none;
@@ -266,19 +269,19 @@ margin-right: auto;
 padding-bottom: 90px;
 }
 
-.table__cell_theme_dark {
+.kaufman-table__cell_theme_dark {
 width: 200px;
 margin-top: 80px;
 }
 
-.table__heading_theme_dark {
+.kaufman-table__heading_theme_dark {
 line-height: 1.15;
 font-size: 24px;
 font-weight: bold;
 padding-left: 0;
 }
 
-.table__text_theme_dark {
+.kaufman-table__text_theme_dark {
 line-height: 1.2;
 font-size: 18px;
 font-weight: normal;
@@ -312,7 +315,7 @@ justify-content: space-between;
 flex-direction: column;
 }
 
-.logo_place_footer {
+.footer__logo_place_footer {
 top: 30px;
 margin-left: 64px;
 width: 183px;
@@ -344,7 +347,6 @@ font-weight: bold;
 line-height: 30px;
 font-size: 18px;
 font-weight: normal;
-list-style-type: none;
 padding: 0;
 }
 
@@ -354,20 +356,11 @@ height: 16px;
 margin-right: 10px;
 }
 
-
-
-
-
-/* here we have two examples of selectors in order to remind you how to set styles for elements */
-.header__square-pic {
-  height: 568px;
-  width: 568px;
+li {
+list-style-type: none;
 }
 
-/* including elements with key-value modifiers */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
+a {
+text-decoration: none;
+color: white;
 }
