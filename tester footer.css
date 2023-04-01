@@ -1,0 +1,40 @@
+.footer{
+    background-color: black;
+    display: flex;
+    margin: 0px;
+}
+
+.footer__columns {
+    width: 90%;
+    display: flex;
+    padding-bottom: 40px;
+    padding-top: ;
+    border: 2px solid red;
+   
+}
+
+.footer__columns_content_copyright {
+    flex-direction: row;
+}
+
+.footer__columns_content_about {
+    flex-direction: column;
+    padding-top: 20px;
+}
+
+.footer__columns_content_social {
+    flex-direction: column;
+}
+
+.footer__columns-heading {
+    color: white;
+}
+
+.logo_place_footer {
+    width: 183px;
+    height: 35px;
+}
+
+.footer__author {   
+    color: white;
+}
