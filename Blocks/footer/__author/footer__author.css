@@ -2,4 +2,8 @@
 line-height: 25px;
 font-size: 18px;
 font-weight: normal;
+margin-left: 64px;
+display: flex;
+align-items: flex-end;
+padding-bottom: 18px;
 }
